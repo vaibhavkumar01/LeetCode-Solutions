@@ -12,4 +12,4 @@ This repository contains my solutions to various LeetCode problems.
 3. To improve my coding and algorithmic thinking skills
 
 🔗 My LeetCode Profile
-👉 leetcode.com/01vaibhavkumar
+👉 [leetcode.com/01vaibhavkumar](https://leetcode.com/u/01vaibhavkumar/)
