@@ -2,14 +2,14 @@
 This repository contains my solutions to various LeetCode problems.
 
 🔹 Contents
-Solutions organized by difficulty (Easy / Medium / Hard)
-Pure C++ implementations
-Well-structured folders for easy navigation
+1. Solutions organized by difficulty (Easy / Medium / Hard)
+2. Pure C++ implementations
+3. Well-structured folders for easy navigation
 
 🔹 Purpose
-To track my problem-solving journey on LeetCode
-To share optimized solutions
-To improve my coding and algorithmic thinking skills
+1. To track my problem-solving journey on LeetCode
+2. To share optimized solutions
+3. To improve my coding and algorithmic thinking skills
 
 🔗 My LeetCode Profile
 👉 leetcode.com/01vaibhavkumar
